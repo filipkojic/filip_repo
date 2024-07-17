@@ -1,3 +1,4 @@
 Ovde je neki tekst
 U 3 linije
 koda.
+Dodavanje novog sadržaja u feature-branch.
